@@ -796,7 +796,7 @@ h4 {
 }
 
 #bloc-6{
-    background-color: #4A2D0D;
+    background-color: #221200;
 } 
 
 #btnSubmit{
@@ -805,27 +805,27 @@ h4 {
 }
 
 #bloc-8{
-    background-color:#4A2D0D;
+    background-color:#221200;
 } 
 #bloc-8 span{ 
      color:white;
 }
 
 .tc-white {
-    color:#f17135!important;
+    color:#f8983d!important;
     text-align: center;
     font-weight: bold;
 }
 
 .btn-atomic-tangerine {
-    background: #f17135;
-    color: #4A2D0D!important;
+    background: #f8983d;
+    color: #221200!important;
     font-weight: bolder;
 }
 
 .btn-atomic-tangerine:hover {
-    background: /*hsl(19, 47%, 55%)*/#4A2D0D!important;
-    color: #f17135!important;
+    background: /*hsl(19, 47%, 55%)*/#221200!important;
+    color: #f8983d!important;
 }
 
 .ltc-white {
