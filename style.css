@@ -458,7 +458,7 @@ nav .caret {
 .btn-d,
 .btn-d:hover,
 .btn-d:focus {
-    color: #FFF;
+   /*color: #FFF;*/
     background: rgba(0, 0, 0, .3);
 }
 
@@ -778,6 +778,20 @@ h4 {
 
 #bloc-6{
     background-color: #4e382d;
+} 
+
+#btnSubmit{
+    background-color:#4e382d; 
+    color:#f17135;
+    border-radius: 30px; 
+    cursor: pointer;
+}
+
+#bloc-8{
+    background-color:#4e382d;
+} 
+#bloc-8 span{ 
+     color:white;
 }
 
 .tc-white {
