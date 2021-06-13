@@ -379,11 +379,10 @@ a:hover {
 {
     text-decoration: none; 
 }
-
-#bloc-6{
-    background-image: ;
+#commercialMessage{
+    width:60%;
+    margin:auto;
 }
-
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
@@ -801,8 +800,6 @@ h4 {
 } 
 
 #btnSubmit{
-    background-color:#4A2D0D; 
-    color:#f17135;
     border-radius: 30px; 
     cursor: pointer;
 }
@@ -815,20 +812,20 @@ h4 {
 }
 
 .tc-white {
-    color:white!important;
+    color:#f17135!important;
     text-align: center;
     font-weight: bold;
 }
 
 .btn-atomic-tangerine {
-    background: #364577;
-    color: #E0E092!important;
+    background: #f17135;
+    color: #4A2D0D!important;
     font-weight: bolder;
 }
 
 .btn-atomic-tangerine:hover {
-    background: /*hsl(19, 47%, 55%)*/#e0d892!important;
-    color: #364577!important;
+    background: /*hsl(19, 47%, 55%)*/#4A2D0D!important;
+    color: #f17135!important;
 }
 
 .ltc-white {
