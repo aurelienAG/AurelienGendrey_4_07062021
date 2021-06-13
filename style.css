@@ -1,4 +1,5 @@
 body {
+    width:100%;
     margin: 0;
     padding: 0;
     background: #FFF;
@@ -772,13 +773,17 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: /*#F3976C*/#f17135;
+    background-color: /*#F3976C*//*#f17135*/#f17135;
+}
+
+#bloc-6{
+    background-color: #4e382d;
 }
 
 .tc-white {
     color:white!important;
     text-align: center;
-    font-weight: 500;
+    font-weight: bold;
 }
 
 .btn-atomic-tangerine {
